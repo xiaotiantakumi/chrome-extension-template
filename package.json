@@ -1,7 +1,7 @@
 {
-  "name": "chrome-extension-template-webpack-babel",
-  "repository": "https://github.com/17number/chrome-extension-template-webpack-babel.git",
-  "author": "17number",
+  "name": "chrome-extension-template",
+  "repository": "https://github.com/xiaotiantakumi/chrome-extension-template.git",
+  "author": "takumi oda",
   "license": "MIT",
   "scripts": {
     "dev": "webpack --config webpack.dev.js",

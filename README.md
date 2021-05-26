@@ -3,6 +3,10 @@
 [webpack](https://webpack.js.org/), [Babel](https://babeljs.io/) を使って良い感じに実装可能な Chrome 拡張機能のテンプレート。
 
 - `require`, `import` 対応
+## 元テンプレート
+https://github.com/17number/chrome-extension-template-webpack-babel
+
+## 特徴
 - `sass` や `scss` 対応
 - Hot reload with [rubenspgcavalcante/webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader)
 
